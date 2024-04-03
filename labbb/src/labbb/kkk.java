@@ -4,7 +4,7 @@ public class kkk {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("Our teamm");
+System.out.println("New member Dorjcue");
 	}
 
 }
